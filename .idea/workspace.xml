@@ -23,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../keyboard_stat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.test">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -93,6 +93,15 @@
       <workItem from="1610902974724" duration="12074000" />
       <workItem from="1611232664745" duration="590000" />
       <workItem from="1611238068445" duration="10096000" />
+      <workItem from="1611328108039" duration="1819000" />
+      <workItem from="1611337645734" duration="1139000" />
+      <workItem from="1611431201124" duration="674000" />
+      <workItem from="1611606451451" duration="601000" />
+      <workItem from="1612116465863" duration="33000" />
+      <workItem from="1612116563992" duration="241000" />
+      <workItem from="1612121338541" duration="806000" />
+      <workItem from="1612128412435" duration="605000" />
+      <workItem from="1613568019870" duration="53000" />
     </task>
     <servers />
   </component>
@@ -104,10 +113,11 @@
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state x="395" y="89" key="#Inspections/0.0.1536.821/-1280.-489.1024.779@0.0.1536.821" timestamp="1611239976532" />
-    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1610841146320">
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1612121344895">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
-    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.821@0.0.1536.821" timestamp="1610841146320" />
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.821/-1280.-489.1024.779@0.0.1536.821" timestamp="1612116480138" />
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.821@0.0.1536.821" timestamp="1612121344895" />
     <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1610921973176">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
